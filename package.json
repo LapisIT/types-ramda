@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      "@types/ramda@0.25.0",
+      "/home/svcontractor/Documents/Projects/topo-maps-env/app"
+    ]
+  ],
+  "_from": "@types/ramda@0.25.0",
+  "_id": "@types/ramda@0.25.0",
+  "_inBundle": false,
+  "_integrity": "sha512-5IdrohP5RJe1kbMnJ4MvQFfwA1Iqyme1b4/5mIzDiVDrR0L/AuhozrxaUGXpZRHWvJkTHQCf9yNSr+CaLM+QdA==",
+  "_location": "/@types/ramda",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@types/ramda@0.25.0",
+    "name": "@types/ramda",
+    "escapedName": "@types%2framda",
+    "scope": "@types",
+    "rawSpec": "0.25.0",
+    "saveSpec": null,
+    "fetchSpec": "0.25.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/ramda/-/ramda-0.25.0.tgz",
+  "_spec": "0.25.0",
+  "_where": "/home/svcontractor/Documents/Projects/topo-maps-env/app",
+  "contributors": [
+    {
+      "name": "Erwin Poeze",
+      "url": "https://github.com/donnut"
+    },
+    {
+      "name": "Matt DeKrey",
+      "url": "https://github.com/mdekrey"
+    },
+    {
+      "name": "Matt Dziuban",
+      "url": "https://github.com/mrdziuban"
+    },
+    {
+      "name": "Stephen King",
+      "url": "https://github.com/sbking"
+    },
+    {
+      "name": "Alejandro Fernandez Haro",
+      "url": "https://github.com/afharo"
+    },
+    {
+      "name": "Vítor Castro",
+      "url": "https://github.com/teves-castro"
+    },
+    {
+      "name": "Jordan Quagliatini",
+      "url": "https://github.com/1M0reBug"
+    },
+    {
+      "name": "Simon Højberg",
+      "url": "https://github.com/hojberg"
+    },
+    {
+      "name": "Charles-Philippe Clermont",
+      "url": "https://github.com/charlespwd"
+    },
+    {
+      "name": "Samson Keung",
+      "url": "https://github.com/samsonkeung"
+    }
+  ],
+  "dependencies": {},
+  "description": "TypeScript definitions for ramda",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/ramda",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.4",
+  "typesPublisherContentHash": "89b6ce9c084e9ae33adb1c95d936095d64df935f162b70792a88b6b5f70621a3",
+  "version": "0.25.0"
+}
